@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Thomas Brito-Bronfield  
+🌟 Aspiring Software Developer | Focused on Building User-Centric Solutions  
 
-<!--
-**tomtom12065/tomtom12065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a passionate software developer with a strong foundation in web development, API integration, and creating intuitive user interfaces. My recent project, **Save a Stray**, highlights my ability to design and build functional, real-world applications.
 
-Here are some ideas to get you started:
+### 💻 Projects
+- [**Save a Stray**](https://github.com/tomtom12065/save-a-stray): A web app to connect stray cats with loving homes, featuring:
+  - Dynamic filtering using the Cat API
+  - Secure user authentication
+  - Robust error handling and intuitive UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- **Languages**: JavaScript, HTML, CSS  
+- **Frameworks/Tools**: React, Context API, RESTful APIs  
+- **Version Control**: Git & GitHub  
+
+### 🚀 What I’m Working On
+- Expanding my skills in full-stack development.  
+- Building more real-world projects to solve meaningful problems.  
+
+### 💼 Let’s Connect
+I’m actively seeking opportunities as a junior software developer. Feel free to explore my repositories and reach out to collaborate!  
+
