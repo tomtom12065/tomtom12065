@@ -11,7 +11,7 @@ I’m a passionate software developer with a strong foundation in web developmen
   - Robust error handling and intuitive UI
 
 ### 🔧 Skills
-- **Languages**: JavaScript, HTML, CSS  
+- **Languages**: JavaScript, HTML, CSS,Python,bootstrap,flask,mysql,
 - **Frameworks/Tools**: React, Context API, RESTful APIs  
 - **Version Control**: Git & GitHub  
 
